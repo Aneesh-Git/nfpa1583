@@ -1,10 +1,10 @@
 /***************************************************************************
-						   *** FINAL RESULTS ***
+*** FINAL RESULTS ***
 
-						    MSPH Thesis (EPH 699)
-						       FAST-C Project						 
-							Aneesh Chandramouli 
-						  Last Updated: 07/15/2020
+MSPH Thesis (EPH 699)
+FAST-C Project						 
+Aneesh Chandramouli 
+Last Updated: 07/15/2020
 						  
 Table of Contents:
 *********************
