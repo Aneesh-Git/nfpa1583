@@ -1,10 +1,10 @@
 /***************************************************************************
-			  *** DATA CLEANING & OUTCOME VARIABLE CREATION ***
+*** DATA CLEANING & OUTCOME VARIABLE CREATION ***
 						    
-						    MSPH Thesis (EPH 699)
-						       FAST-C Project
-							Aneesh Chandramouli 
-						  Last Updated: 06/29/2020
+MSPH Thesis (EPH 699)
+FAST-C Project
+Aneesh Chandramouli 
+Last Updated: 06/29/2020
 ****************************************************************************/
  
 proc import datafile='/folders/myfolders/msph thesis/fastc_year3data_ac.xlsx' dbms=xlsx out=fast replace; getnames=yes; run;
